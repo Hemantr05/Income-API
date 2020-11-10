@@ -1,5 +1,7 @@
 # API to predict individuals income
 
+Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
+
 ## Instructions to run:
 
 To build docker images please run:
