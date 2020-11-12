@@ -1,7 +1,7 @@
 # API to predict individuals income
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
+[![Coverage Status](https://coveralls.io/repos/github/Hemantr05/Income-API/badge.svg?branch=master)](https://coveralls.io/github/Hemantr05/Income-API?branch=master)
 
 Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
