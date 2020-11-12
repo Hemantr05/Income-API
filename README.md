@@ -1,5 +1,8 @@
 # API to predict individuals income
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
 Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
 ## Instructions to run:
