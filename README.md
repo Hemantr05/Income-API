@@ -8,6 +8,12 @@ Predict whether income exceeds $50K/yr based on census data. Also known as "Cens
 
 ## Installation:
 
+1. clone github repository: 
+
+`git clone git@github.com:Hemantr05/Income-API.git`
+
+2. install from source:
+
 `python setup.py install`
 
 
